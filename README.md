@@ -1,6 +1,6 @@
 # Project Portfolio
 
-Welcome to my Project Portfolio! Here you will find a collection of my recent projects, each showcasing different aspects of my skills and interests. Below is a brief overview of each project.
+Welcome to my Project Portfolio! Below is a brief overview of each project within this repository.
 
 ## Projects Overview
 
